@@ -9,6 +9,12 @@
 [![LinkedIn: lakshaybisht](https://img.shields.io/badge/-lakshaybisht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshaybisht/)](https://www.linkedin.com/in/lakshaybisht/)
 [![GitHub Lakshay](https://img.shields.io/github/followers/lakshaybxt?label=follow&style=social)](https://github.com/lakshaybxt)
 
+<p align="left">
+  <a href="https://leetcode.com/u/lakshaybxt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshaybxt" height="30" width="40" /></a>
+   <img src="https://komarev.com/ghpvc/?username=lakshaybxt&label=Profile%20views&color=FF0000&style=flat" alt="lakshaybxt" />
+</p>
+</p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
