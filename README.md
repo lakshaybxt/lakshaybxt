@@ -5,7 +5,7 @@
 <p><em>Just a Learner<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Try to give your all!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: lakshay](https://img.shields.io/twitter/follow/lakshay?style=social)](https://twitter.com/lakshay.)
+[![Twitter: lakshay](https://img.shields.io/twitter/follow/lakshay?style=social)](https://x.com/lakshaybxt)
 [![LinkedIn: lakshaybisht](https://img.shields.io/badge/-lakshaybisht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshaybisht/)](https://www.linkedin.com/in/lakshaybisht/)
 [![GitHub Lakshay](https://img.shields.io/github/followers/lakshaybxt?label=follow&style=social)](https://github.com/lakshaybxt)
 
