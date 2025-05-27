@@ -20,8 +20,8 @@
 ```javascript
 const lakshay = {
   pronouns: "he" | "him",
-  code: [C, C++, HTML, CSS, JavaScript, SQL, Java,],
-  tools: [React, Spring Boot],
+  code: [Java, SQL, HTML, CSS, JavaScript, C, C++],
+  tools: [React, Spring Boot, TailwindCSS, Docker, Maven],
   challenge: "I'm currently learning Data Structure and Algorithm and Web Development",
   futureGoal: "Start contributing to open source projects soon",
 };
