@@ -21,9 +21,9 @@
 const lakshay = {
   pronouns: "he" | "him",
   code: [Java, SQL, HTML, CSS, JavaScript, C, C++],
-  tools: [React, Spring Boot, TailwindCSS, Docker, Maven],
-  challenge: "I'm currently learning Data Structure and Algorithm and Web Development",
-  futureGoal: "Start contributing to open source projects soon",
+  tools: [React, Spring Boot, Hibernate, TailwindCSS, Docker, Maven],
+  challenge: "Currently Building..",
+  // futureGoal: "Start contributing to open source projects soon",
 };
 ```
 
